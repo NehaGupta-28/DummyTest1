@@ -1,5 +1,5 @@
-"CHANGED IN GITHUB"
-def banner_text(text: str = " ", screen_width: int = 80) -> None:
+
+def banner_text(text: str = " ", screen_width: int = 80) -> "CHANGED IN GITHUB"
     """
     Print a string centered, with ** on either side.
     :param text: the string to print.
