@@ -1,4 +1,4 @@
-LOW = 1
+LOW = THIRD CHANGE IN GITHUB"
 HIGH = 1000
 
 # print("Please think of a number between 1 and 1000")
