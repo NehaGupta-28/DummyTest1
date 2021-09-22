@@ -1,4 +1,4 @@
-def factorial(n: int) -> int:
+def factorial(n: int) -> i"CHANGED IN GITHUB"
     """
     Returning the factorial of a number
     :param n: the number
