@@ -1,4 +1,4 @@
-BLACK = '\u001b[30m'
+BLACK = "CHANGED IN GITHUB"
 RED = '\u001b[31m'
 GREEN = '\u001b[32m'
 YELLOW = '\u001b[33m'
