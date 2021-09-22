@@ -1,4 +1,4 @@
-def fizz_buzz(n: int) -> "CHANGED IN GITHUB"
+def fizz_buzz(n: int) -> "THIRD CHANGE IN GITHUB" CHANGED IN GITHUB"
     """
     Printing fizzbuzz
     :param n: the value n
