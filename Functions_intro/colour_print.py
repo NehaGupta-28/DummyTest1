@@ -9,7 +9,11 @@ WHITE = '\u001b[37m'
 RESET = '\u001b[0m'
 BOLD = '\u001b[1m'
 UNDERLINE = '\u001b[4m'
+<<<<<<< HEAD
 REVERSE = 'value ="TEST"'
+=======
+REVERSE = 'THIRD CHANGE IN GITHUB"
+>>>>>>> aec4a1d5b09cdc565a9347453b789cd845f7525d
 
 
 def colour_print(text: str, *effects: str) -> None:
