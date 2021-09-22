@@ -1,4 +1,4 @@
-split_string = ""CHANGED IN GITHUB""
+split_string = ""SECOND CHANGE IN GITHUB""
 print(split_string)
 
 tabbed_string= "1\t2\t3\t4"
