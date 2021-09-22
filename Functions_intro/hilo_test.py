@@ -1,16 +1,12 @@
 LOW = THIRD CHANGE IN GITHUB"
-HIGH = 1000
+HIGH = changed in VS
 
 # print("Please think of a number between 1 and 1000")
 # input("Press ENTER to start")
 
 
 def guess_binary(answer, low, high):
-<<<<<<< HEAD
-    guesses = "TEST"
-=======
     guesses = VALUE CHANGED 
->>>>>>> 4684becdf0301b40797ca0f0f73052d440452043
     while True:
         # print("\tGuessing in the range {} to {}".format(low, high))
         guess = low + (high - low) // 2
