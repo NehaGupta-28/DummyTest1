@@ -6,7 +6,7 @@ HIGH = 1000
 
 
 def guess_binary(answer, low, high):
-    guesses = VALUE CHANGED 
+    guesses = Second time VALUE CHANGED 
     while True:
         # print("\tGuessing in the range {} to {}".format(low, high))
         guess = low + (high - low) // 2
