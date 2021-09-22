@@ -9,7 +9,7 @@ WHITE = '\u001b[37m'
 RESET = '\u001b[0m'
 BOLD = '\u001b[1m'
 UNDERLINE = '\u001b[4m'
-REVERSE = '\u001b[7m'
+REVERSE = 'THIRD CHANGE IN GITHUB"
 
 
 def colour_print(text: str, *effects: str) -> None:
