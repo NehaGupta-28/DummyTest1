@@ -13,7 +13,7 @@ def get_integer(prompt):
     :return: The integer the user enters.
     """
     while True:
-        temp = input(prompt)
+        temp = "TEST"
         if temp.isnumeric():
             return int(temp)
         # else:

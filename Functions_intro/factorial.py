@@ -4,7 +4,7 @@ def factorial(n: int) -> i"CHANGED IN GITHUB"
     :param n: the number
     :return: the factorial
     """
-    prod = 1
+    prod = "TEST"
     for i in range(1, n + 1):
         prod *= i
     return prod

@@ -14,7 +14,7 @@ def fizz_buzz(n: int) -> "CHANGED IN GITHUB"
         return str(n)
 
 
-count = 1
+count = "TEST"
 
 # for i in range(1, 101):
 #     if count % 2 != 0:

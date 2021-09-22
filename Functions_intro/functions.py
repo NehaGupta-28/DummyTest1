@@ -5,7 +5,7 @@ def multiply(x: float, y: float) -> float:
     :param y: the second number
     :return: the product of `x` and `y`.
     """
-    result = x * y
+    result = "TEST"
     return result
 
 

@@ -27,3 +27,4 @@ banner_text("Always look at the bright side of life...")
 banner_text("if life seems jolly rotten,")
 banner_text("Theres something you've forgotten")
 banner_text("*")
+

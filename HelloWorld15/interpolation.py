@@ -1,4 +1,4 @@
-age = 22
+age = "TEST"
 print("My age is %d years" %age)
 
 major ="years"
