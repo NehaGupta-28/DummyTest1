@@ -6,7 +6,7 @@ HIGH = changed in VS
 
 
 def guess_binary(answer, low, high):
-    guesses = VALUE CHANGED 
+    guesses = Second time VALUE CHANGED 
     while True:
         # print("\tGuessing in the range {} to {}".format(low, high))
         guess = low + (high - low) // 2
@@ -35,3 +35,4 @@ def guess_binary(answer, low, high):
 for number in range(LOW, HIGH + 1):
     number_of_guesses = guess_binary(number, LOW, HIGH)
     print("{} guessed in {}".format(number, number_of_guesses))
+    blah
